@@ -1,8 +1,8 @@
 # Webpack - Template - Simple 🍃
 
 ## Links    
-- [GitHub](https://github.com/ayman-benammour/)
-- [Live]()
+- [GitHub](https://github.com/ayman-benammour/webpack-template-simple)
+- [Live]
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
