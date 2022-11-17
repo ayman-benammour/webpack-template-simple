@@ -1,6 +1,6 @@
 # Webpack - Template - Simple 🍃
 
-## Links    
+## Links
 - [GitHub](https://github.com/ayman-benammour/webpack-template-simple)
 - [Live]
 
@@ -20,4 +20,4 @@ npm run build
 ```
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[Unlicense](https://choosealicense.com/licenses/unlicense/)
